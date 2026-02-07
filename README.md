@@ -1,10 +1,13 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Task Manager
 
-## Getting Started
+## Tech Stack
+- Next.js
+- TypeScript
+- Tailwind CSS
 
-First, run the development server:
-
+## Setup
 ```bash
+npm install
 npm run dev
 # or
 yarn dev
